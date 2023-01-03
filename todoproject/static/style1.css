@@ -1,0 +1,14 @@
+
+.banner{
+        background:darkseagreen;
+        width:100%;
+        height:200px;
+        margin-bottom:50px;
+}
+.banner-text{
+
+        top:500%;
+        left:500%;
+        text-align:center;
+        transform:transform;
+}
